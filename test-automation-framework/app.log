@@ -1,0 +1,9 @@
+2025-02-20 19:27:17,386 - INFO - Adding 2 + 3 = 5
+2025-02-20 19:27:17,430 - INFO - Subtracting 10 - 4 = 6
+2025-02-20 19:27:17,509 - INFO - Multiplying 3 * 3 = 9
+2025-02-20 19:27:17,603 - INFO - Dividing 10 / 2 = 5.0
+2025-02-20 19:27:17,655 - ERROR - Attempted to divide by zero
+2025-02-20 19:35:32,169 - INFO - Adding 5 + 7 = 12
+2025-02-20 19:35:32,171 - INFO - Subtracting 10 - 3 = 7
+2025-02-20 19:35:32,171 - INFO - Multiplying 4 * 6 = 24
+2025-02-20 19:35:32,172 - INFO - Dividing 8 / 2 = 4.0
