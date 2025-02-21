@@ -23,7 +23,7 @@ jobs:
       - name: Run Tests
         run: npm test
 
-      - name: Upload Test Results  # 🔥 Add this step
+      - name: Upload Test Results  # ✅ Ensure this uses v4
         uses: actions/upload-artifact@v4
         with:
           name: test-results
