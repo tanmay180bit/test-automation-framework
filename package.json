@@ -5,9 +5,11 @@
     "express": "^4.21.2"
   },
   "devDependencies": {
+    "jest": "^29.7.0",
     "nodemon": "^3.1.9"
   },
   "scripts": {
-    "test": "echo \"No test script available\" && exit 0"
-  }
+  "test": "jest --outputFile=reports/test-results.json --json --runInBand"
+}
+
 }
