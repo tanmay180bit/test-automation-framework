@@ -9,7 +9,7 @@
     "nodemon": "^3.1.9"
   },
   "scripts": {
-  "test": "jest --outputFile=reports/test-results.json --json --runInBand"
+  "test": "jest"
 }
 
 }
